@@ -16,3 +16,4 @@ mlflow.db
 
 data/raw/
 data/processed/
+gitignore
