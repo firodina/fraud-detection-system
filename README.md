@@ -1,5 +1,6 @@
-Fraud Detection System
-Project Overview
+## Fraud Detection System
+
+# Project Overview
 
 Adey Innovations Inc., a leader in financial technology, aims to improve the detection of fraudulent activities in both e-commerce transactions and bank credit transactions. This project focuses on creating accurate and robust fraud detection models by leveraging:
 
@@ -11,7 +12,8 @@ Geolocation analysis and transaction pattern recognition
 
 Explainable AI (XAI) techniques to interpret model decisions
 
-Objective:
+# bjective:
+
 The main goal of this project is to develop a business-centric fraud detection system that can:
 
 Detect fraudulent transactions effectively while minimizing false positives
@@ -22,7 +24,7 @@ Enable real-time monitoring and reporting
 
 Provide interpretable insights for business and operational decision-making
 
-Project Structure
+# Project Structure
 
 The repository is organized for clarity and modular development:
 
